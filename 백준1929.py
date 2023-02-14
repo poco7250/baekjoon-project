@@ -11,4 +11,4 @@ for i in range(m, n+1):
                 check = 1
                 break
         if check == 0:
-            print(i) 
+            print(i)

@@ -18,4 +18,4 @@ if len(n_list) == 0:
     print(-1)
 else:
     print(sum(n_list))
-    print(min(n_list)) 
+    print(min(n_list))
