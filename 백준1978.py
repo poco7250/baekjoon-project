@@ -14,4 +14,4 @@ for i in n_list:
                 break
         if check == 0:
             count += 1
-print(count)
+print(count) 
