@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 n = int(input())
 i = 2
 while True:
